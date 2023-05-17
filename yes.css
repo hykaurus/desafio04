@@ -1,0 +1,31 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Konkhmer+Sleokchher&family=Roboto:wght@900&display=swap');
+
+body
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.mnulk
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.mnuimg img
+{
+    margin: 10px;
+}
+*
+{
+    text-decoration: none;
+    list-style: none;
+    font-family: roboto;
+    font-size: 24px;
+}
+a :hover
+{
+    color: rgb(68, 168, 255) ;
+}
